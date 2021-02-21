@@ -1,6 +1,6 @@
 <template>
   <v-toolbar
-    color="vTyoobRed"
+    color="dark"
     dense
     fixed
     dark
